@@ -1,0 +1,4 @@
+- [x] Recreate the supplied Yolumu Tap page as the first screen.
+- [x] Make the top navigation blue with a downward-opening menu.
+- [x] Reduce repeated testing prompts and connect “Özünü kəşf et” to subscriptions.
+- [x] Verify navigation and mobile layout in the browser.
